@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BeehiveStakingPool
-- 👀 I’m interested in Nix, Blockchain, Cardano...
+- 👀 I’m interested in Nix, Blockchain, Cardano... Beekeeping!
 - 🌱 I’m currently porting my nodes to Nix
 - 💞️ I’m looking to collaborate on anything Cardano + Nix
 - 📫 How to reach me...
