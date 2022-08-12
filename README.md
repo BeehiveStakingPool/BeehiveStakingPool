@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BeehiveStakingPool
 - 👀 I’m interested in Nix, Blockchain, Cardano... Beekeeping!
-- 🌱 I’m currently learnign Nix
+- 🌱 I’m currently learnign NixOS / Nix Package Manager
 - 💞️ I’m looking to collaborate on anything Cardano + Nix
 
 <!---
