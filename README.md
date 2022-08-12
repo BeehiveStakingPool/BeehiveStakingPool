@@ -2,7 +2,6 @@
 - 👀 I’m interested in Nix, Blockchain, Cardano... Beekeeping!
 - 🌱 I’m currently learnign Nix
 - 💞️ I’m looking to collaborate on anything Cardano + Nix
-- 📫 How to reach me...
 
 <!---
 BeehiveStakingPool/BeehiveStakingPool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
